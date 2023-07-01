@@ -1,4 +1,4 @@
-![obraz](https://github.com/TheSinOfGreed/projekty_komercyjne/assets/80159294/29e35009-ed6e-4d73-ad7f-d007f75c46c3)# projekty_komercyjne
+projekty_komercyjne
 
 #1 <br>
 Opis: Strona firmy spawalniczej<br>
