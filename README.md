@@ -1,9 +1,7 @@
 PROJEKTY KOMERCYJNE
 ------------
 
-#1 
-------------
-<br>
+#1 <br>
 Opis: Strona firmy spawalniczej<br>
 Link: --aplikacja w trakcie tworzenia--<br>
 Stack: TypeScript/Next/Redux/Tailwind/Sass<br>
